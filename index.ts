@@ -1,4 +1,4 @@
-import DiscordJS, { Guild, Intents, Message } from 'discord.js'
+import DiscordJS, { Guild, Intents, Message, SystemChannelFlags } from 'discord.js'
 import dotenv from 'dotenv'
 dotenv.config()
 
