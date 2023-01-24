@@ -19,8 +19,8 @@ const help = '' +
     '\t**coin** - I will simulate a coin flip for you\n' +
     '\t**randomize** - I will randomizes a number with a range from 0-100, you can change the maximum by adding another arguement (' + prefix + 'randomize 200)\n' +
 
-    '\n__**MONEY COMMANDS**__:\n' +
-    '\t**guess** - You have 4 guesses to figure out what number I\'m thinking of from 1-100\n' +
+    //'\n__**MONEY COMMANDS**__:\n' +
+    //'\t**guess** - You have 4 guesses to figure out what number I\'m thinking of from 1-100\n' +
     //'\t**challange** - A battle between you and another user, money on the line if wanted (' + prefix + 'challange @user "amount to bet") winner takes all\n' +
     //'\t**** - Amadeus will simulate a coin flip for you\n' +
     '---------------------------------------------'
