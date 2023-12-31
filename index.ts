@@ -12,7 +12,7 @@ const help = '' +
     '\t**ping** - To test if I am awake right now\n' +
 
     '\n__**FUN COMMANDS**__:\n' +
-    '\t**wink** - Just winks at me\n' +
+    '\t**wink** - Just winks at you\n' +
 
     '\n__**RANDOMIZER COMMANDS**__:\n' +
     '\t**dice** - I will roll a dice for you\n' +
