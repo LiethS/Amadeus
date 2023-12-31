@@ -2,7 +2,7 @@ import DiscordJS, { Guild, Intents, Message, SystemChannelFlags } from 'discord.
 import dotenv from 'dotenv'
 dotenv.config()
 
-//RUN COMMAND: "ts-node index.ts" TO START!!!
+//RUN COMMAND: "npx ts-node index.ts" TO START!!!
 
 const prefix = '%'
 const help = '' +
